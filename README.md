@@ -1,0 +1,1 @@
+# jenkins_training_run_scripts_from_the_pipeline
